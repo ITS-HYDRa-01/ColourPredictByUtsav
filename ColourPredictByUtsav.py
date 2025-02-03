@@ -30,17 +30,15 @@ colors = {
 
 }
 
-print(f"{colors['green']}"WELCOME TO COLOUR PREDICTION")
-print(f"{colors['red']}"Made By UTSAV")
-
+print(f"{colors['green']}"WELCOME TO COLOUR PREDICTION{colors['end_color']}")
+print(f"{colors['red']}"Made By UTSAV{colors['end_color']}")
 def show_second_url():
 
     print(f"{colors['cyan']}Visit this link: https://t.me/allmoneygamehack{colors['end_color']}")
 
     webbrowser.open("https://t.me/allmoneygamehack")  
 
-print(f"{colors['green']}"WELCOME TO COLOUR PREDICTION")
-print(f"{colors['red']}"Made By UTSAV")
+
 
 def get_initial_wallet():
 
@@ -111,8 +109,7 @@ def calculate_prediction(auto_period):
         return "Error"
 
 
-print(f"{colors['green']}"WELCOME TO COLOUR PREDICTION")
-print(f"{colors['red']}"Made By UTSAV")
+
 def color_prediction_game():
 
    
@@ -134,7 +131,7 @@ def color_prediction_game():
 
 
     print(f"{colors['pink']}Welcome to the Color Prediction Game!{colors['end_color']}")
-
+    print(f"{colors['red']}"Made By UTSAV{colors['end_color']}")
 
 
     while wallet > 0:
