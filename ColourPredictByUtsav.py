@@ -30,7 +30,8 @@ colors = {
 
 }
 
-
+print("WELCOME TO COLOUR PREDICTION")
+print("Made By UTSAV")
 
 def show_second_url():
 
