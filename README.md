@@ -60,7 +60,7 @@ Once you've successfully run the script, follow these steps:
 Here’s how the game will look when you play:
 
 ```bash
-$ python3 Color-Predict.py
+$ python3 ColourPredictByUtsav.py
 
 Enter your starting wallet amount: 100
 Welcome to Color Prediction Game!
@@ -95,7 +95,7 @@ pkg install python
 git clone https://github.com/ITS-HYDRa-01/ColourPredictByUtsav.git
 
 
-cd Color-Predict
+cd ColourPredictByUtsav
 
 ls
 
