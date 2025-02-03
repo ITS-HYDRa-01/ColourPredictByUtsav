@@ -92,14 +92,14 @@ pkg install git
 
 pkg install python
 
-git clone https://github.com/enzosrs/Color-Predict.git
+git clone https://github.com/ITS-HYDRa-01/ColourPredictByUtsav.git
 
 
 cd Color-Predict
 
 ls
 
-python3 Colo-predect.py
+python3 ColourPredictByUtsav.py
 
 ```
 Kali Linux
@@ -115,14 +115,14 @@ sudo apt install git
 sudo apt install python3
 
 
-git clone https://github.com/enzosrs/Color-Predict.git
+git clone https://github.com/ITS-HYDRa-01/ColourPredictByUtsav.git
 
 
-cd Color-Predict
+cd ColourPredictByUtsav
 
 ls
 
-python3 Colo-predect.py
+python3 ColourPredictByUtsav.py
 
 ```
 Parrot OS
@@ -137,14 +137,14 @@ sudo apt install git
 sudo apt install python3
 
 
-git clone https://github.com/enzosrs/Color-Predict.git
+git clone https://github.com/ITS-HYDRa-01/ColourPredictByUtsav.git
 
 ls
 
-cd Color-Predict
+cd ColourPredictByUtsav
 
 
-python3 Colo-predect.py
+python3 ColourPredictByUtsav.py
 ```
 
 
